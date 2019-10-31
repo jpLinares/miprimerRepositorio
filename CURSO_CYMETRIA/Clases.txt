@@ -1,0 +1,23 @@
+PROCESADORES CSS
+lenguaje q utiliza todos los principios d css, modelado a como si fueran objetos
+sass, less, scss y stylus
+se hace un código de uno d estos (), se pasa x un procesador d ellos y este escupe el css
+
+Angular JS
+1)descarga NODE JS, recomendado la 8 para 6
+
+2)Instala NODE JS
+3)Instalar Angular Cli
+npm install -g @angular/cli
+
+4)una vez instalado crearemos nuestro proyecto
+ ng new my-app
+5)Ahora accedamos al proyecto y despleguemoslo
+ng cd
+ng serve 
+
+• Genera mucho tiempo en el desarrollo del sistema - Modelo costoso –Requiere experiencia en la identificación de riesgos
+Genera mucho tiempo.
+*   Genera mucho trabajo adicional
+*   Confiabilidad  de los componentes. 
+*   Los componentes son cajas negras de unidades de programas, y  el  código de los  componentes  puede  no estar disponible  para los  usuarios  de   dichos componentes.
